@@ -1,0 +1,50 @@
+title: "[公告] "
+labels: ["announcement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        用于产品公告、版本发布、维护通知或重要状态更新。请保持简洁，优先写用户需要知道的变化。
+
+  - type: input
+    id: summary
+    attributes:
+      label: 公告摘要
+      placeholder: "一句话说明这次公告的重点"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: announcement-type
+    attributes:
+      label: 公告类型
+      options:
+        - 版本更新
+        - 已知问题
+        - 服务状态
+        - 社区通知
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 详细内容
+      description: 写清楚发生了什么、影响谁、用户需要做什么。
+      placeholder: |
+        ## 发生了什么
+
+        ## 影响范围
+
+        ## 用户需要做什么
+    validations:
+      required: true
+
+  - type: input
+    id: related-links
+    attributes:
+      label: 相关链接
+      placeholder: "APPSTORE_URL / TESTFLIGHT_URL / 相关 Issue 或 Discussion"
+    validations:
+      required: false
