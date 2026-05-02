@@ -12,15 +12,12 @@ This repository is the public community and support hub. It is not the private a
 
 ## Quick Links
 
-- Download on App Store: `APPSTORE_URL`
-- TestFlight: `TESTFLIGHT_URL`
 - Ask usage questions: [Discussions / Q&A](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/q-a)
 - Share product ideas: [Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas)
 - Report reproducible bugs: [Issues](https://github.com/aliendaniel/AG-Mob-community/issues)
 - Read announcements: [Discussions / Announcements](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/announcements)
-- Join Discord: `DISCORD_INVITE_URL`
-- Contact support: `SUPPORT_EMAIL`
-- Report security issues privately: `SECURITY_EMAIL`
+- Contact support: `aliendaniel@hotmail.com`
+- Report security issues privately: `aliendaniel@hotmail.com`
 
 ## Screenshots
 
@@ -55,7 +52,7 @@ This repository is the public community and support hub. It is not the private a
 
 ### 1. Install The App
 
-Open `APPSTORE_URL` on your iPhone or iPad and install OpenClaw Mobile. If you are testing a beta build, use `TESTFLIGHT_URL`.
+Install OpenClaw Mobile on your iPhone or iPad from the official App Store listing when it becomes available. Beta testers should use the invitation link provided directly by the maintainer.
 
 ### 2. Prepare Your Gateway
 
@@ -151,8 +148,8 @@ Check notification permission in iOS Settings and in the app's Settings page. So
 - Bug reports go to [Issues](https://github.com/aliendaniel/AG-Mob-community/issues).
 - Usage questions go to [Discussions / Q&A](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/q-a).
 - Feature ideas go to [Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas).
-- Casual chat and real-time help go to Discord: `DISCORD_INVITE_URL`.
-- Security or privacy issues must be sent privately to `SECURITY_EMAIL`. Do not post security details publicly.
+- General community conversation goes to Discussions / General.
+- Security or privacy issues must be sent privately to `aliendaniel@hotmail.com`. Do not post security details publicly.
 
 Please do not post account data, setup codes, device tokens, order numbers, private logs, API keys, or any other sensitive information in public Issues or Discussions.
 

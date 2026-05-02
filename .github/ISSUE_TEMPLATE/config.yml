@@ -6,9 +6,6 @@ contact_links:
   - name: Ideas / 功能想法
     url: https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas
     about: Share early product ideas and workflow suggestions.
-  - name: Discord real-time help / Discord 实时交流
-    url: DISCORD_INVITE_URL
-    about: Casual chat, community conversation, and lightweight real-time help. Replace this placeholder with the real invite URL.
   - name: Security / 安全漏洞报告
-    url: mailto:SECURITY_EMAIL
+    url: mailto:aliendaniel@hotmail.com
     about: Security or privacy issues must be reported privately. Do not create a public issue.

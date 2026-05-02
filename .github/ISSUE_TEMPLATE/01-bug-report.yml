@@ -19,7 +19,7 @@ body:
       options:
         - label: I searched existing Issues and did not find an obvious duplicate. / 我已搜索过已有 Issues，确认没有明显重复。
           required: true
-        - label: This is not a security or privacy issue. Security reports go to SECURITY_EMAIL. / 这不是安全或隐私问题；如果是，我会发送到 SECURITY_EMAIL。
+        - label: This is not a security or privacy issue. Security reports go to aliendaniel@hotmail.com. / 这不是安全或隐私问题；如果是，我会发送到 aliendaniel@hotmail.com。
           required: true
 
   - type: input

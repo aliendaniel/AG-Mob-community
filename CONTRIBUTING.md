@@ -10,8 +10,7 @@ This repository is a public community and support hub, not the app source-code r
 - Usage question: post in Discussions / Q&A.
 - Feature idea: post in Discussions / Ideas.
 - General topic: post in Discussions / General.
-- Real-time help: join Discord at `DISCORD_INVITE_URL`.
-- Security issue: email `SECURITY_EMAIL` privately.
+- Security issue: email `aliendaniel@hotmail.com` privately.
 
 ## Before Posting
 
@@ -35,4 +34,4 @@ Do not submit app source code, build files, signing assets, setup codes, credent
 - 使用问题：Discussions / Q&A
 - 功能建议：Discussions / Ideas
 - 普通交流：Discussions / General
-- 安全或隐私问题：发送到 `SECURITY_EMAIL`，不要公开发布
+- 安全或隐私问题：发送到 `aliendaniel@hotmail.com`，不要公开发布

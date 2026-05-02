@@ -4,13 +4,11 @@ These tasks still need to be completed in GitHub UI or release channels.
 
 以下任务需要在 GitHub UI 或发布渠道中手动完成。
 
-## Replace Placeholders / 替换占位符
+## Public Contact / 公开联系方式
 
-- Replace `DISCORD_INVITE_URL` with the real Discord invite.
-- Replace `SUPPORT_EMAIL` with the real support email.
-- Replace `SECURITY_EMAIL` with the real security email.
-- Replace `APPSTORE_URL` with the real App Store URL.
-- Replace `TESTFLIGHT_URL` with the real TestFlight URL, or remove TestFlight lines if not public.
+- Public support email: `aliendaniel@hotmail.com`
+- Public security email: `aliendaniel@hotmail.com`
+- Add App Store or TestFlight links later only after real public links are ready.
 
 ## Language / 语言
 
@@ -38,7 +36,7 @@ These tasks still need to be completed in GitHub UI or release channels.
 
 - Open the Issue chooser and confirm Bug Report and Feature Request forms are visible.
 - Confirm blank issues are disabled.
-- Confirm Discord and Security contact links work.
+- Confirm the Security contact link opens an email draft.
 - Confirm `bug`, `feature`, and `triage` labels exist.
 - Consider adding `needs-info`, `duplicate`, `iPhone`, `iPad`, `gateway`, `known-issue`, and `security-redirected` labels.
 
@@ -49,4 +47,4 @@ These tasks still need to be completed in GitHub UI or release channels.
 - SECURITY clearly says security issues must not be posted publicly.
 - SUPPORT routes users to the right channels.
 - CODE_OF_CONDUCT covers spam, harassment, and sensitive information.
-- Pinned Discussions no longer contain template-only placeholder text.
+- Pinned Discussions no longer contain template-only draft text.

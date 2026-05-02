@@ -1,10 +1,10 @@
 # Security Policy
 
-Please do not report security or privacy issues through public GitHub Issues, public Discussions, Discord, or social media.
+Please do not report security or privacy issues through public GitHub Issues, public Discussions, social media, or any other public channel.
 
 Send private security reports to:
 
-`SECURITY_EMAIL`
+`aliendaniel@hotmail.com`
 
 ## What To Include
 
@@ -26,10 +26,10 @@ Use GitHub Issues or Discussions for regular bugs, usage questions, and feature 
 
 ## 中文说明
 
-如果你发现安全漏洞、隐私风险、数据泄露风险或可被滥用的行为，请不要创建公开 Issue，也不要在 Discussions、Discord 或社交平台公开细节。
+如果你发现安全漏洞、隐私风险、数据泄露风险或可被滥用的行为，请不要创建公开 Issue，也不要在 Discussions、社交平台或其他公开渠道发布细节。
 
 请发送邮件到：
 
-`SECURITY_EMAIL`
+`aliendaniel@hotmail.com`
 
 普通 Bug、使用问题和功能建议请使用 Issues 或 Discussions，不要发送到安全邮箱。

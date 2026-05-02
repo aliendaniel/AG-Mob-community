@@ -33,17 +33,9 @@ Close politely and link to the canonical thread.
 
 If the same question repeats often, update README, SUPPORT, or the Start Here pinned post.
 
-## When To Redirect To Discord
-
-- The user needs fast back-and-forth clarification.
-- The topic is casual community conversation.
-- The question is lightweight and not sensitive.
-
-Do not redirect security, privacy, account, payment, token, or credential issues to public Discord channels.
-
 ## When To Escalate To Security Email
 
-Immediately redirect to `SECURITY_EMAIL` when a post involves:
+Immediately redirect to `aliendaniel@hotmail.com` when a post involves:
 
 - Security vulnerability, permission bypass, data leakage, or abuse path
 - Setup codes, device tokens, API keys, private logs, account data, or other sensitive information
@@ -60,7 +52,7 @@ Public replies should stay minimal and avoid vulnerability details.
 - Review Ideas and summarize recurring requests.
 - Update Known Issues status.
 - Publish or refresh Release Notes.
-- Confirm placeholders and screenshots are still current.
+- Confirm public contact details and screenshots are still current.
 - Check that important posts include English first and Chinese where useful.
 
 ---
@@ -71,5 +63,4 @@ Public replies should stay minimal and avoid vulnerability details.
 - Discussion 转 Issue：当问题可复现且需要跟踪修复状态时。
 - 重复问题：关闭时贴出主线程链接。
 - Q&A：用于连接、扫码、审批、会话、任务、搜索、设置、权限、离线恢复和通知等使用问题。
-- Discord：用于轻量实时沟通，不处理安全、隐私、账号、支付、token 或凭据问题。
-- 安全问题：立即引导到 `SECURITY_EMAIL`，公开回复不要讨论漏洞细节。
+- 安全问题：立即引导到 `aliendaniel@hotmail.com`，公开回复不要讨论漏洞细节。

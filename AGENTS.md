@@ -11,7 +11,7 @@ This repository is not the private app source-code repository. Do not add mobile
 - Default public docs should be English first.
 - Chinese support must remain available through `docs/zh-CN/README.md` and bilingual helper text where useful.
 - Keep public copy professional, concise, and friendly.
-- Do not invent real URLs, emails, company names, or support commitments. Use placeholders when values are unknown.
+- Do not invent real URLs, emails, company names, or support commitments. If a public link is not ready, omit it until the real value is available.
 
 ## File Map
 
@@ -31,8 +31,8 @@ This repository is not the private app source-code repository. Do not add mobile
 - Feature idea -> Discussions / `Ideas`.
 - General community conversation -> Discussions / `General`.
 - Release updates and product notices -> Discussions / `Announcements`.
-- Casual chat / real-time help -> Discord: `DISCORD_INVITE_URL`.
-- Security or privacy vulnerability -> private email: `SECURITY_EMAIL`. Never public Issue or Discussion.
+- Casual chat / real-time help -> Discussions / `General` unless a public real-time channel is added later.
+- Security or privacy vulnerability -> private email: `aliendaniel@hotmail.com`. Never public Issue or Discussion.
 
 Chinese equivalents:
 
@@ -40,7 +40,7 @@ Chinese equivalents:
 - 使用问题：发到 Discussions 的 `Q&A` 分类。
 - 功能想法：发到 Discussions 的 `Ideas` 分类。
 - 普通交流：发到 Discussions 的 `General` 分类。
-- 安全或隐私问题：只通过 `SECURITY_EMAIL` 私下报告。
+- 安全或隐私问题：只通过 `aliendaniel@hotmail.com` 私下报告。
 
 ## Updating Screenshots
 

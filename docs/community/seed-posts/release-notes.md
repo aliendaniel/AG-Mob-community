@@ -2,10 +2,6 @@
 
 ## vX.Y.Z - YYYY-MM-DD
 
-App Store: `APPSTORE_URL`
-
-TestFlight: `TESTFLIGHT_URL`
-
 ### Highlights / 本次重点
 
 - One sentence about the most important user-facing change.
@@ -36,7 +32,6 @@ TestFlight: `TESTFLIGHT_URL`
 - Bugs: GitHub Issues
 - Usage questions: Discussions / Q&A
 - Ideas: Discussions / Ideas
-- Discord: `DISCORD_INVITE_URL`
 
 ---
 

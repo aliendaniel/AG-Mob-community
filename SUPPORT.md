@@ -10,9 +10,8 @@ Need help with OpenClaw Mobile? Please choose the best channel so we can respond
 | Usage question | Discussions / Q&A |
 | Product idea | Discussions / Ideas |
 | General community chat | Discussions / General |
-| Real-time help | Discord: `DISCORD_INVITE_URL` |
-| Security or privacy issue | Email: `SECURITY_EMAIL` |
-| Other support | Email: `SUPPORT_EMAIL` |
+| Security or privacy issue | Email: `aliendaniel@hotmail.com` |
+| Other support | Email: `aliendaniel@hotmail.com` |
 
 ## Helpful Details
 
@@ -35,9 +34,5 @@ Do not post account data, setup codes, device tokens, API keys, private logs, or
 - 可复现 Bug：GitHub Issues
 - 使用问题：Discussions / Q&A
 - 功能建议：Discussions / Ideas
-- 实时交流：Discord：`DISCORD_INVITE_URL`
-- 安全或隐私问题：发送邮件到 `SECURITY_EMAIL`，不要公开发布
-
-App Store: `APPSTORE_URL`
-
-TestFlight: `TESTFLIGHT_URL`
+- 普通交流：Discussions / General
+- 安全或隐私问题：发送邮件到 `aliendaniel@hotmail.com`，不要公开发布

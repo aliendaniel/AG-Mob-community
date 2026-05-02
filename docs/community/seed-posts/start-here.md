@@ -13,8 +13,7 @@ This repository does not contain app source code.
 - Suggest a product idea: post in Discussions / `Ideas`.
 - General community conversation: post in Discussions / `General`.
 - Product announcements and release notes: follow `Announcements`.
-- Real-time help: join Discord at `DISCORD_INVITE_URL`.
-- Security or privacy issue: email `SECURITY_EMAIL` privately. Do not post it publicly.
+- Security or privacy issue: email `aliendaniel@hotmail.com` privately. Do not post it publicly.
 
 ## Helpful Details For Feedback
 
@@ -27,10 +26,6 @@ This repository does not contain app source code.
 - Screenshot, screen recording, or error text if safe to share
 
 Please do not post setup codes, device tokens, API keys, account data, order numbers, private logs, or other sensitive information.
-
-App Store: `APPSTORE_URL`
-
-TestFlight: `TESTFLIGHT_URL`
 
 ---
 
@@ -49,5 +44,4 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的 iPhone / iPad 伴侣 
 - 功能想法：发到 Discussions 的 `Ideas`。
 - 普通交流：发到 Discussions 的 `General`。
 - 产品公告和版本更新：关注 `Announcements`。
-- 实时帮助：加入 Discord：`DISCORD_INVITE_URL`。
-- 安全或隐私问题：私下发送邮件到 `SECURITY_EMAIL`，不要公开发布。
+- 安全或隐私问题：私下发送邮件到 `aliendaniel@hotmail.com`，不要公开发布。

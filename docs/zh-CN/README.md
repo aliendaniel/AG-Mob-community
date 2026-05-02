@@ -12,15 +12,12 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。
 
 ## 快速入口
 
-- App Store 下载：`APPSTORE_URL`
-- TestFlight：`TESTFLIGHT_URL`
 - 使用问题：[Discussions / Q&A](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/q-a)
 - 功能建议：[Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas)
 - 报告可复现 Bug：[Issues](https://github.com/aliendaniel/AG-Mob-community/issues)
 - 产品公告：[Discussions / Announcements](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/announcements)
-- 加入 Discord：`DISCORD_INVITE_URL`
-- 支持邮箱：`SUPPORT_EMAIL`
-- 安全问题私下报告：`SECURITY_EMAIL`
+- 支持邮箱：`aliendaniel@hotmail.com`
+- 安全问题私下报告：`aliendaniel@hotmail.com`
 
 ## 产品截图
 
@@ -55,7 +52,7 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。
 
 ### 1. 安装 App
 
-在 iPhone 或 iPad 上打开 `APPSTORE_URL` 安装 OpenClaw Mobile。如果你正在测试 Beta 版本，请使用 `TESTFLIGHT_URL`。
+在 App Store 正式页面可用后，请从官方 App Store 页面安装 OpenClaw Mobile。Beta 测试用户请使用维护者直接提供的邀请链接。
 
 ### 2. 准备 Gateway
 
@@ -151,8 +148,8 @@ OpenClaw Mobile 只会在需要时申请设备权限。位置只会在你主动�
 - Bug 报告请提交到 [Issues](https://github.com/aliendaniel/AG-Mob-community/issues)。
 - 使用问题请发到 [Discussions / Q&A](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/q-a)。
 - 功能想法请发到 [Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas)。
-- 普通交流和实时帮助请去 Discord：`DISCORD_INVITE_URL`。
-- 安全或隐私问题请私下发送到 `SECURITY_EMAIL`，不要公开发布。
+- 普通交流请发到 Discussions / General。
+- 安全或隐私问题请私下发送到 `aliendaniel@hotmail.com`，不要公开发布。
 
 请不要在公开 Issue 或 Discussion 中发布账号信息、Setup Code、设备 token、订单号、私密日志、API Key 或其他敏感信息。
 

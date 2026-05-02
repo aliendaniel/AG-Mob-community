@@ -47,6 +47,6 @@ body:
     id: related-links
     attributes:
       label: Related links / 相关链接
-      placeholder: "APPSTORE_URL / TESTFLIGHT_URL / related Issue or Discussion"
+      placeholder: "Related Issue, Discussion, release, or support link"
     validations:
       required: false
