@@ -16,6 +16,7 @@ This repository is the public community and support hub. It is not the private a
 - Share product ideas: [Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas)
 - Report reproducible bugs: [Issues](https://github.com/aliendaniel/AG-Mob-community/issues)
 - Read announcements: [Discussions / Announcements](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/announcements)
+- Read the privacy policy: [PRIVACY.md](PRIVACY.md)
 - Contact support: `aliendaniel@hotmail.com`
 - Report security issues privately: `aliendaniel@hotmail.com`
 

@@ -16,6 +16,7 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。
 - 功能建议：[Discussions / Ideas](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/ideas)
 - 报告可复现 Bug：[Issues](https://github.com/aliendaniel/AG-Mob-community/issues)
 - 产品公告：[Discussions / Announcements](https://github.com/aliendaniel/AG-Mob-community/discussions/categories/announcements)
+- 隐私政策：[PRIVACY.md](../../PRIVACY.md)
 - 支持邮箱：`aliendaniel@hotmail.com`
 - 安全问题私下报告：`aliendaniel@hotmail.com`
 
