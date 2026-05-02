@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord 实时交流
+    url: DISCORD_INVITE_URL
+    about: 适合普通交流、实时帮助和轻量讨论。请先替换为真实 Discord 邀请链接。
+  - name: Security / 安全漏洞报告
+    url: mailto:SECURITY_EMAIL
+    about: 安全或隐私问题请通过私密邮件报告，不要创建公开 Issue。
