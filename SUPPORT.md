@@ -1,27 +1,43 @@
-# Support / 获取支持
+# Support
 
-如果你在使用 AG Mob 时遇到问题，请根据情况选择最合适的渠道。
+[English](SUPPORT.md) | [中文](docs/zh-CN/README.md)
 
-| 需求 | 推荐渠道 |
+Need help with OpenClaw Mobile? Please choose the best channel so we can respond clearly.
+
+| Need | Best Place |
 | --- | --- |
-| 可复现 Bug | GitHub Issues |
-| 使用问题 | GitHub Discussions / Q&A |
-| 功能建议 | GitHub Discussions / Ideas |
-| 普通交流 | GitHub Discussions / General |
-| 实时聊天 | Discord：`DISCORD_INVITE_URL` |
-| 安全或隐私问题 | 邮件：`SECURITY_EMAIL` |
-| 其他支持 | 邮件：`SUPPORT_EMAIL` |
+| Reproducible bug | GitHub Issues |
+| Usage question | Discussions / Q&A |
+| Product idea | Discussions / Ideas |
+| General community chat | Discussions / General |
+| Real-time help | Discord: `DISCORD_INVITE_URL` |
+| Security or privacy issue | Email: `SECURITY_EMAIL` |
+| Other support | Email: `SUPPORT_EMAIL` |
 
-## 提问时建议提供
+## Helpful Details
 
-- 你正在使用的 App 版本
-- 设备型号与系统版本
-- 你尝试完成的操作
-- 出现问题前后的步骤
-- 截图、录屏或错误提示
+For bugs or usage questions, please include:
 
-请不要公开发布账号、手机号、邮箱、订单号、Token、日志密钥或其他敏感信息。
+- App version
+- Device model
+- iOS/iPadOS version
+- Gateway connection type: LAN, Tailscale, hosted URL, or other
+- What you were trying to do
+- Steps before the issue happened
+- Screenshots, screen recordings, or error text if safe to share
 
-App Store 地址：`APPSTORE_URL`
+Do not post account data, setup codes, device tokens, API keys, private logs, order numbers, or other sensitive information publicly.
 
-TestFlight 地址：`TESTFLIGHT_URL`
+## 中文说明
+
+如果你需要中文支持，可以直接用中文提交 Issue 或 Discussion。请按以下方式分流：
+
+- 可复现 Bug：GitHub Issues
+- 使用问题：Discussions / Q&A
+- 功能建议：Discussions / Ideas
+- 实时交流：Discord：`DISCORD_INVITE_URL`
+- 安全或隐私问题：发送邮件到 `SECURITY_EMAIL`，不要公开发布
+
+App Store: `APPSTORE_URL`
+
+TestFlight: `TESTFLIGHT_URL`

@@ -1,63 +1,75 @@
-# 社区运营 Runbook
+# Moderation Runbook / 社区运营 Runbook
 
-这个文档用于日常维护 GitHub Issues、Discussions 和置顶帖。
+Use this guide for routine GitHub Issues, Discussions, pinned posts, and bilingual support.
 
-## 新 Bug 报告分诊
+## Bug Triage
 
-1. 检查是否包含设备、App 版本、系统版本、复现步骤、期望结果和实际结果。
-2. 如果信息不足，留言请求补充，并保留 `triage` 标签。
-3. 如果可以复现或信息足够，补充合适标签，例如 `bug`、`iOS`、`Android`、`needs-info`。
-4. 如果影响面较大，把问题同步到 Known Issues 置顶帖。
-5. 修复发布后，在对应 Issue 中说明版本，并关闭 Issue。
+1. Check whether the report includes device, app version, OS version, Gateway connection type, reproduction steps, expected result, and actual result.
+2. If details are missing, ask for the missing information and keep the `triage` label.
+3. If the report is reproducible or high impact, add relevant labels such as `bug`, `iPhone`, `iPad`, `gateway`, `needs-info`, or `known-issue`.
+4. If the impact is broad, add it to the Known Issues pinned post.
+5. After a fix ships, comment with the fixed version and close the issue.
 
-## 什么时候从 Discussion 转成 Issue
+## When To Move A Discussion To An Issue
 
-- 用户描述的是可复现 Bug。
-- 有明确步骤、设备信息和影响范围。
-- 需要维护者跟踪修复状态。
+- The post describes a reproducible bug.
+- The user has clear steps, device details, and impact.
+- Maintainers need to track fix status.
 
-转成 Issue 后，在原 Discussion 中贴回链接，方便用户跟踪。
+After creating the Issue, link it back from the original Discussion.
 
-## 什么时候关闭重复问题
+## When To Close As Duplicate
 
-- 已存在同一问题的 Issue 或 Discussion。
-- 新帖没有提供新的复现信息、平台差异或影响范围。
+- Another Issue or Discussion already tracks the same problem.
+- The new post does not add a new platform, reproduction path, or impact detail.
 
-关闭时请贴出原帖链接，并简短说明后续会在那里集中跟进。
+Close politely and link to the canonical thread.
 
-## 什么时候在 Q&A 回答
+## When To Answer In Q&A
 
-- 用户问的是使用方法、功能入口、账号设置、通知设置、常见限制等。
-- 问题不需要工程修复，只需要解释或教程。
-- 回答后可以把最清晰的回复标记为答案。
+- The user asks how to connect, scan setup code, approve a device, use chats, manage tasks, search, settings, permissions, offline recovery, or notifications.
+- The topic does not require engineering fix tracking.
+- Mark the clearest reply as the answer when resolved.
 
-如果同类问题反复出现，考虑更新 README、SUPPORT 或教程帖。
+If the same question repeats often, update README, SUPPORT, or the Start Here pinned post.
 
-## 什么时候引导到 Discord
+## When To Redirect To Discord
 
-- 需要实时来回确认。
-- 属于轻量聊天、社区交流或非正式反馈。
-- 用户需要快速确认一个非敏感问题。
+- The user needs fast back-and-forth clarification.
+- The topic is casual community conversation.
+- The question is lightweight and not sensitive.
 
-不要把安全漏洞、隐私数据、账号问题或支付问题引导到公开 Discord 频道。
+Do not redirect security, privacy, account, payment, token, or credential issues to public Discord channels.
 
-## 什么时候升级到安全邮箱
+## When To Escalate To Security Email
 
-立即引导到 `SECURITY_EMAIL` 的情况：
+Immediately redirect to `SECURITY_EMAIL` when a post involves:
 
-- 安全漏洞、权限绕过、数据泄露风险。
-- 可利用的崩溃、注入、越权或隐私问题。
-- 包含账号、订单、Token、日志密钥或其他敏感信息。
-- 用户已经公开了敏感信息，需要先隐藏或编辑内容。
+- Security vulnerability, permission bypass, data leakage, or abuse path
+- Setup codes, device tokens, API keys, private logs, account data, or other sensitive information
+- A public post that already exposed sensitive data
 
-公开回复只保留必要说明，不讨论漏洞细节。
+Public replies should stay minimal and avoid vulnerability details.
 
-## 每周维护清单
+## Weekly Maintenance Checklist
 
-- 查看新 Issues，补标签、合并重复、请求缺失信息。
-- 查看 Discussions 的 Q&A，标记已解决回答。
-- 查看 Ideas，整理高频需求和典型场景。
-- 更新 Known Issues 置顶帖的状态。
-- 检查 Release Notes 是否覆盖最近版本变化。
-- 检查 Discord、支持邮箱、安全邮箱和 App Store 链接占位符是否已替换。
-- 关闭已经发布修复且用户确认解决的问题。
+- Review new Issues and add labels.
+- Ask for missing bug details.
+- Close duplicates with links.
+- Review Q&A and mark accepted answers.
+- Review Ideas and summarize recurring requests.
+- Update Known Issues status.
+- Publish or refresh Release Notes.
+- Confirm placeholders and screenshots are still current.
+- Check that important posts include English first and Chinese where useful.
+
+---
+
+## 中文摘要
+
+- Bug：先检查设备、版本、系统、连接方式、复现步骤、期望结果和实际结果。
+- Discussion 转 Issue：当问题可复现且需要跟踪修复状态时。
+- 重复问题：关闭时贴出主线程链接。
+- Q&A：用于连接、扫码、审批、会话、任务、搜索、设置、权限、离线恢复和通知等使用问题。
+- Discord：用于轻量实时沟通，不处理安全、隐私、账号、支付、token 或凭据问题。
+- 安全问题：立即引导到 `SECURITY_EMAIL`，公开回复不要讨论漏洞细节。

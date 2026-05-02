@@ -1,28 +1,32 @@
-name: Bug 报告
-description: 报告一个可复现的问题或异常行为
+name: Bug Report / Bug 反馈
+description: Report a reproducible issue in OpenClaw Mobile
 title: "[Bug]: "
 labels: ["bug", "triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        谢谢你帮助我们定位问题。请尽量提供可复现的信息；如果涉及账号、订单、Token、日志密钥或隐私数据，请不要公开发布。
+        Thanks for helping us improve OpenClaw Mobile.
+
+        Please do not post setup codes, device tokens, API keys, account data, private logs, or other sensitive information.
+
+        中文：感谢你帮助我们定位问题。请不要公开发布 Setup Code、设备 token、API Key、账号信息、私密日志或其他敏感信息。
 
   - type: checkboxes
     id: precheck
     attributes:
-      label: 提交前确认
+      label: Before submitting / 提交前确认
       options:
-        - label: 我已搜索过已有 Issues，确认这不是明显重复问题。
+        - label: I searched existing Issues and did not find an obvious duplicate. / 我已搜索过已有 Issues，确认没有明显重复。
           required: true
-        - label: 这不是安全漏洞或隐私风险；如果是，我会发送到 SECURITY_EMAIL。
+        - label: This is not a security or privacy issue. Security reports go to SECURITY_EMAIL. / 这不是安全或隐私问题；如果是，我会发送到 SECURITY_EMAIL。
           required: true
 
   - type: input
     id: platform-device
     attributes:
-      label: 平台与设备
-      description: 例如 iPhone 15 Pro、iPad、Android 设备型号等。
+      label: Platform and device / 平台与设备
+      description: "Example: iPhone 15 Pro, iPad Pro, iPad mini."
       placeholder: "iPhone 15 Pro"
     validations:
       required: true
@@ -30,52 +34,65 @@ body:
   - type: input
     id: app-version
     attributes:
-      label: App 版本
-      placeholder: "例如 1.0.0"
+      label: App version / App 版本
+      placeholder: "1.0.0"
     validations:
       required: true
 
   - type: input
     id: os-version
     attributes:
-      label: 系统版本
-      placeholder: "例如 iOS 17.5 / Android 14"
+      label: OS version / 系统版本
+      placeholder: "iOS 17.5 / iPadOS 17.5"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: connection-type
+    attributes:
+      label: Gateway connection type / Gateway 连接方式
+      options:
+        - "LAN / 局域网"
+        - "Tailscale"
+        - "Hosted HTTPS/WSS URL / 托管安全地址"
+        - "Not connected yet / 尚未连接"
+        - "Other / 其他"
     validations:
       required: true
 
   - type: textarea
     id: steps
     attributes:
-      label: 复现步骤
-      description: 请按顺序写出如何触发问题。
+      label: Reproduction steps / 复现步骤
+      description: Please list the exact steps that trigger the issue.
       placeholder: |
-        1. 打开 ...
-        2. 点击 ...
-        3. 出现 ...
+        1. Open ...
+        2. Tap ...
+        3. See ...
     validations:
       required: true
 
   - type: textarea
     id: expected
     attributes:
-      label: 期望结果
-      placeholder: "你原本期望发生什么？"
+      label: Expected result / 期望结果
+      placeholder: "What did you expect to happen?"
     validations:
       required: true
 
   - type: textarea
     id: actual
     attributes:
-      label: 实际结果
-      placeholder: "实际发生了什么？是否有错误提示？"
+      label: Actual result / 实际结果
+      placeholder: "What actually happened? Include visible error text if any."
     validations:
       required: true
 
   - type: textarea
     id: attachments
     attributes:
-      label: 附件与补充信息
-      description: 可以添加截图、录屏、日志片段或其他上下文。请先移除敏感信息。
-      placeholder: "拖拽图片/录屏到这里，或补充更多信息。"
+      label: Attachments and extra context / 附件与补充信息
+      description: Screenshots, recordings, safe logs, or additional context. Please redact sensitive information first.
+      placeholder: "Drag screenshots or recordings here, or add more context."
     validations:
       required: false

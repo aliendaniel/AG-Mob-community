@@ -1,24 +1,29 @@
-# Code of Conduct / 社区行为准则
+# Code of Conduct
 
-我们希望这个社区对所有用户、测试者和维护者都友好、清晰、有效。
+We want this community to be useful, respectful, and welcoming for users, beta testers, reviewers, and maintainers.
 
-## 请这样参与
+## Expected Behavior
 
-- 尊重他人，讨论问题本身，不攻击个人。
-- 提交反馈时尽量提供可复现信息、截图或录屏。
-- 对不同设备、地区、网络环境下的差异保持耐心。
-- 保护自己和他人的隐私，不公开账号、手机号、邮箱、订单号、Token、日志密钥等敏感信息。
-- 发现安全或隐私问题时，请发送邮件到 `SECURITY_EMAIL`，不要公开发布。
+- Be respectful and discuss the product or problem, not the person.
+- Share clear reproduction details when reporting issues.
+- Be patient with differences across devices, networks, regions, and Gateway setups.
+- Protect your own and other people's privacy.
+- Report security or privacy issues privately to `SECURITY_EMAIL`.
 
-## 不接受的行为
+## Not Allowed
 
-- 骚扰、辱骂、歧视、人身攻击或持续挑衅。
-- 发布垃圾广告、恶意链接、无关推广或重复刷屏。
-- 公开他人的个人信息或诱导他人泄露敏感信息。
-- 把安全漏洞、可利用细节或攻击步骤发布到公开 Issue / Discussion。
+- Harassment, insults, discrimination, personal attacks, or repeated provocation.
+- Spam, unrelated promotion, malicious links, or repeated low-signal posting.
+- Posting someone else's personal information.
+- Posting setup codes, device tokens, API keys, private logs, order numbers, or other sensitive information.
+- Publishing vulnerability details, exploit steps, or abuse instructions in public.
 
-## 维护方式
+## Moderation
 
-维护者可以编辑标题、补充标签、移动讨论、关闭重复问题、隐藏不合适内容，或在必要时限制参与。
+Maintainers may edit titles, add labels, move discussions, close duplicates, hide inappropriate content, or limit participation when needed.
 
-如果你认为某个处理有误，可以通过 `SUPPORT_EMAIL` 联系我们。
+If you believe a moderation action was mistaken, contact `SUPPORT_EMAIL`.
+
+## 中文说明
+
+我们希望这个社区对所有用户、测试者和维护者都友好、清晰、有效。请尊重他人，保护隐私，不公开敏感信息。安全或隐私问题请发送到 `SECURITY_EMAIL`，不要公开发布。

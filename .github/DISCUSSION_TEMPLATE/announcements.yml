@@ -1,50 +1,52 @@
-title: "[公告] "
+title: "[Announcement] "
 labels: ["announcement"]
 body:
   - type: markdown
     attributes:
       value: |
-        用于产品公告、版本发布、维护通知或重要状态更新。请保持简洁，优先写用户需要知道的变化。
+        Use this for product announcements, release notes, maintenance notices, and important community updates.
+
+        中文：用于产品公告、版本更新、维护通知或重要社区消息。请优先写用户真正需要知道的信息。
 
   - type: input
     id: summary
     attributes:
-      label: 公告摘要
-      placeholder: "一句话说明这次公告的重点"
+      label: Summary / 摘要
+      placeholder: "One sentence about the update"
     validations:
       required: true
 
   - type: dropdown
     id: announcement-type
     attributes:
-      label: 公告类型
+      label: Type / 类型
       options:
-        - 版本更新
-        - 已知问题
-        - 服务状态
-        - 社区通知
-        - 其他
+        - "Release notes / 版本更新"
+        - "Known issue / 已知问题"
+        - "Service status / 服务状态"
+        - "Community notice / 社区通知"
+        - "Other / 其他"
     validations:
       required: true
 
   - type: textarea
     id: details
     attributes:
-      label: 详细内容
-      description: 写清楚发生了什么、影响谁、用户需要做什么。
+      label: Details / 详细内容
+      description: Explain what changed, who is affected, and what users should do.
       placeholder: |
-        ## 发生了什么
+        ## What changed
 
-        ## 影响范围
+        ## Who is affected
 
-        ## 用户需要做什么
+        ## What users should do
     validations:
       required: true
 
   - type: input
     id: related-links
     attributes:
-      label: 相关链接
-      placeholder: "APPSTORE_URL / TESTFLIGHT_URL / 相关 Issue 或 Discussion"
+      label: Related links / 相关链接
+      placeholder: "APPSTORE_URL / TESTFLIGHT_URL / related Issue or Discussion"
     validations:
       required: false

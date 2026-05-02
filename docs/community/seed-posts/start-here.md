@@ -1,30 +1,53 @@
 # Start Here / 社区入口
 
-欢迎来到 AG Mob 社区。
+Welcome to the OpenClaw Mobile community.
 
-这个 GitHub 仓库用于公开支持、用户反馈、产品公告、已知问题和版本更新。这里不包含 App 源码，也不处理私密账号或安全漏洞细节。
+OpenClaw Mobile is the iPhone/iPad companion app for a user-owned OpenClaw Gateway. This GitHub repository is for public support, product updates, known issues, release notes, usage questions, and community feedback.
 
-## 你应该去哪里？
+This repository does not contain app source code.
 
-- 报告 Bug：请创建 GitHub Issue，并使用 Bug 表单。
-- 使用问题：请发到 Discussions 的 `Q&A` 分类。
-- 功能想法：请发到 Discussions 的 `Ideas` 分类。
-- 普通交流：请发到 Discussions 的 `General` 分类。
-- 产品公告与版本更新：请查看 `Announcements` 分类。
-- 实时交流：加入 Discord：`DISCORD_INVITE_URL`。
-- 安全或隐私问题：请发送邮件到 `SECURITY_EMAIL`，不要公开发布。
+## Where Should I Go?
 
-## 提交反馈时请尽量包含
+- Report a reproducible bug: create a GitHub Issue with the Bug form.
+- Ask a usage question: post in Discussions / `Q&A`.
+- Suggest a product idea: post in Discussions / `Ideas`.
+- General community conversation: post in Discussions / `General`.
+- Product announcements and release notes: follow `Announcements`.
+- Real-time help: join Discord at `DISCORD_INVITE_URL`.
+- Security or privacy issue: email `SECURITY_EMAIL` privately. Do not post it publicly.
 
-- App 版本
-- 设备型号
-- 系统版本
-- 你尝试完成的操作
-- 问题出现前后的步骤
-- 截图、录屏或错误提示
+## Helpful Details For Feedback
 
-请不要公开发布账号、手机号、邮箱、订单号、Token、日志密钥或其他敏感信息。
+- App version
+- Device model
+- iOS/iPadOS version
+- Gateway connection type: LAN, Tailscale, hosted URL, or other
+- What you were trying to do
+- Steps before the issue happened
+- Screenshot, screen recording, or error text if safe to share
 
-App Store：`APPSTORE_URL`
+Please do not post setup codes, device tokens, API keys, account data, order numbers, private logs, or other sensitive information.
 
-TestFlight：`TESTFLIGHT_URL`
+App Store: `APPSTORE_URL`
+
+TestFlight: `TESTFLIGHT_URL`
+
+---
+
+## 中文
+
+欢迎来到 OpenClaw Mobile 社区。
+
+OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的 iPhone / iPad 伴侣 App。这个 GitHub 仓库用于公开支持、产品更新、已知问题、版本说明、使用问题和社区反馈。
+
+这里不包含 App 源码。
+
+### 你应该去哪里？
+
+- 报告可复现 Bug：创建 GitHub Issue，并使用 Bug 表单。
+- 使用问题：发到 Discussions 的 `Q&A`。
+- 功能想法：发到 Discussions 的 `Ideas`。
+- 普通交流：发到 Discussions 的 `General`。
+- 产品公告和版本更新：关注 `Announcements`。
+- 实时帮助：加入 Discord：`DISCORD_INVITE_URL`。
+- 安全或隐私问题：私下发送邮件到 `SECURITY_EMAIL`，不要公开发布。
