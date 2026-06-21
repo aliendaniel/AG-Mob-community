@@ -6,6 +6,8 @@ AG Mob is an independent companion app for a user-owned OpenClaw Gateway. It hel
 
 AG Mob is independently developed and published. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. "OpenClaw" is used only to describe compatibility with user-owned OpenClaw Gateway instances.
 
+AG Mob is developed and published by Chengling Hua as an independent individual developer.
+
 This repository is the public community and support hub. It is not the private app source-code repository.
 
 ## Quick Links
