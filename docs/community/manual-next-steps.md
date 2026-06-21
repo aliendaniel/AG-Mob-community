@@ -9,6 +9,7 @@ These tasks still need to be completed in GitHub UI or release channels.
 - Public support email: `aliendaniel@hotmail.com`
 - Public security email: `aliendaniel@hotmail.com`
 - Add App Store or TestFlight links later only after real public links are ready.
+- Keep every public page clear that AG Mob is an independent client and is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers.
 
 ## Language / 语言
 
