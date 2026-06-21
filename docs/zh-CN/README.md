@@ -4,7 +4,7 @@
 
 AG Mob 是连接用户自有 OpenClaw Gateway 的独立移动端伴侣 App。你可以在 iPhone 或 iPad 上连接 Gateway、浏览会话和定时任务、跟踪实时执行过程、阅读清晰结果、在需要时审批动作，并在网络临时中断时继续查看缓存内容。
 
-AG Mob 由独立开发者开发和发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者。“OpenClaw” 名称仅用于说明与用户自有 OpenClaw Gateway 的兼容关系。
+AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者。“OpenClaw” 名称仅用于说明与用户自有 OpenClaw Gateway 的兼容关系。
 
 这个仓库是公开社区与支持中心，不是私有 App 源码仓库。
 
