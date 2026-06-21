@@ -1,8 +1,8 @@
 # Start Here / 社区入口
 
-Welcome to the OpenClaw Mobile community.
+Welcome to the AG Mob community.
 
-OpenClaw Mobile is the iPhone/iPad companion app for a user-owned OpenClaw Gateway. This GitHub repository is for public support, product updates, known issues, release notes, usage questions, and community feedback.
+AG Mob is an independent iPhone/iPad companion app for a user-owned OpenClaw Gateway. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. This GitHub repository is for public support, product updates, known issues, release notes, usage questions, and community feedback.
 
 This repository does not contain app source code.
 
@@ -31,9 +31,9 @@ Please do not post setup codes, device tokens, API keys, account data, order num
 
 ## 中文
 
-欢迎来到 OpenClaw Mobile 社区。
+欢迎来到 AG Mob 社区。
 
-OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的 iPhone / iPad 伴侣 App。这个 GitHub 仓库用于公开支持、产品更新、已知问题、版本说明、使用问题和社区反馈。
+AG Mob 是连接用户自有 OpenClaw Gateway 的独立 iPhone / iPad 伴侣 App，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者发布。这个 GitHub 仓库用于公开支持、产品更新、已知问题、版本说明、使用问题和社区反馈。
 
 这里不包含 App 源码。
 
