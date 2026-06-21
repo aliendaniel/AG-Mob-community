@@ -4,7 +4,7 @@
 
 Need help with AG Mob? Please choose the best channel so we can respond clearly.
 
-AG Mob is an independent client for user-owned OpenClaw Gateway instances. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers.
+AG Mob is an independent client for user-owned OpenClaw Gateway instances. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. It is developed and published by Chengling Hua as an independent individual developer.
 
 | Need | Best Place |
 | --- | --- |
