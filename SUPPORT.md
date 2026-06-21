@@ -2,7 +2,9 @@
 
 [English](SUPPORT.md) | [中文](docs/zh-CN/README.md)
 
-Need help with OpenClaw Mobile? Please choose the best channel so we can respond clearly.
+Need help with AG Mob? Please choose the best channel so we can respond clearly.
+
+AG Mob is an independent client for user-owned OpenClaw Gateway instances. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers.
 
 | Need | Best Place |
 | --- | --- |
