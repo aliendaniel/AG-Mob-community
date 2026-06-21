@@ -1,12 +1,10 @@
-# OpenClaw Mobile 社区与支持
+# AG Mob 社区与支持
 
 [English](../../README.md) | [中文](README.md)
 
-<p align="center">
-  <img src="../assets/brand/openclaw-mobile-icon.png" alt="OpenClaw Mobile App 图标" width="96" />
-</p>
+AG Mob 是连接用户自有 OpenClaw Gateway 的独立移动端伴侣 App。你可以在 iPhone 或 iPad 上连接 Gateway、浏览会话和定时任务、跟踪实时执行过程、阅读清晰结果、在需要时审批动作，并在网络临时中断时继续查看缓存内容。
 
-OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。你可以在 iPhone 或 iPad 上连接 Gateway、浏览会话和定时任务、跟踪实时执行过程、阅读清晰结果、在需要时审批动作，并在网络临时中断时继续查看缓存内容。
+AG Mob 由独立开发者开发和发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者。“OpenClaw” 名称仅用于说明与用户自有 OpenClaw Gateway 的兼容关系。
 
 这个仓库是公开社区与支持中心，不是私有 App 源码仓库。
 
@@ -22,22 +20,7 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。
 
 ## 产品截图
 
-<table>
-  <tr>
-    <td align="center"><img src="../assets/screenshots/iphone-connect-gateway.png" alt="连接 Gateway 页面" width="220" /><br />连接 Gateway</td>
-    <td align="center"><img src="../assets/screenshots/iphone-chats.png" alt="会话列表页面" width="220" /><br />会话列表</td>
-    <td align="center"><img src="../assets/screenshots/iphone-readable-results.png" alt="可读结果页面" width="220" /><br />可读结果</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="../assets/screenshots/iphone-live-process.png" alt="实时执行过程页面" width="220" /><br />实时过程</td>
-    <td align="center"><img src="../assets/screenshots/iphone-quick-settings.png" alt="快捷设置页面" width="220" /><br />快捷设置</td>
-    <td align="center"><img src="../assets/screenshots/iphone-search.png" alt="搜索页面" width="220" /><br />搜索</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="../assets/screenshots/ipad-chats.png" alt="OpenClaw Mobile iPad 页面" width="720" />
-</p>
+下一版 AG Mob 使用更新后的 App 名称和独立客户端说明提交后，将刷新这里的截图。
 
 ## 你可以用它做什么
 
@@ -53,11 +36,11 @@ OpenClaw Mobile 是连接用户自有 OpenClaw Gateway 的移动端伴侣 App。
 
 ### 1. 安装 App
 
-在 App Store 正式页面可用后，请从官方 App Store 页面安装 OpenClaw Mobile。Beta 测试用户请使用维护者直接提供的邀请链接。
+在 App Store 页面可用后，请从 App Store 安装 AG Mob。Beta 测试用户请使用维护者直接提供的邀请链接。
 
 ### 2. 准备 Gateway
 
-OpenClaw Mobile 需要连接你拥有或有权限使用的 OpenClaw Gateway。首次连接通常从 Gateway 生成的 Setup Code 开始。
+AG Mob 需要连接你拥有或有权限使用的 OpenClaw Gateway。首次连接通常从 Gateway 生成的 Setup Code 开始。
 
 常见连接方式：
 
@@ -67,7 +50,7 @@ OpenClaw Mobile 需要连接你拥有或有权限使用的 OpenClaw Gateway。�
 
 ### 3. 在 App 中连接
 
-1. 打开 OpenClaw Mobile。
+1. 打开 AG Mob。
 2. 点击 **Scan Setup Code**，或手动粘贴 Setup Code。
 3. 为 Gateway 填一个容易识别的名称。
 4. 确认 Host / URL 和 Port。
@@ -89,7 +72,7 @@ OpenClaw Mobile 需要连接你拥有或有权限使用的 OpenClaw Gateway。�
 
 ### 5. 跟踪实时执行
 
-在会话里，OpenClaw Mobile 会把执行过程整理成更容易阅读的结构：
+在会话里，AG Mob 会把执行过程整理成更容易阅读的结构：
 
 - 你的消息和 assistant 回复保持分组。
 - Process steps 可以展开或折叠。
@@ -119,7 +102,7 @@ OpenClaw Mobile 需要连接你拥有或有权限使用的 OpenClaw Gateway。�
 - 相机、麦克风、照片、文件和位置权限
 - 缓存、隐私、诊断和离线恢复
 
-OpenClaw Mobile 只会在需要时申请设备权限。位置只会在你主动把当前位置插入会话时使用。
+AG Mob 只会在需要时申请设备权限。位置只会在你主动把当前位置插入会话时使用。
 
 ## 常见排障
 
