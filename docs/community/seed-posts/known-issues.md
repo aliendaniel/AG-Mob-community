@@ -2,9 +2,9 @@
 
 Last updated / 最后更新：YYYY-MM-DD
 
-This pinned post tracks known issues, workarounds, and fix status for OpenClaw Mobile.
+This pinned post tracks known issues, workarounds, and fix status for AG Mob.
 
-这个置顶帖用于记录 OpenClaw Mobile 当前已知问题、临时方案和修复状态。
+这个置顶帖用于记录 AG Mob 当前已知问题、临时方案和修复状态。
 
 ## Current Known Issues / 当前已知问题
 
