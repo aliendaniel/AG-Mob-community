@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve OpenClaw Mobile.
+Thank you for helping improve AG Mob.
 
 This repository is a public community and support hub, not the app source-code repository. Most contributions should be clear bug reports, usage questions, product ideas, documentation fixes, and high-signal feedback.
 

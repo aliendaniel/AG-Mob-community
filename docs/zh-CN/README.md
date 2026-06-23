@@ -2,11 +2,13 @@
 
 [English](../../README.md) | [中文](README.md)
 
-AG Mob 是连接用户自有 OpenClaw Gateway 的独立移动端伴侣 App。你可以在 iPhone 或 iPad 上连接 Gateway、浏览会话和定时任务、跟踪实时执行过程、阅读清晰结果、在需要时审批动作，并在网络临时中断时继续查看缓存内容。
+AG Mob 是连接用户自有 OpenClaw-compatible Gateway 的独立移动端伴侣 App。你可以在 iPhone 或 iPad 上连接 Gateway、浏览会话和定时任务、跟踪实时执行过程、阅读清晰结果、在需要时审批动作，并在网络临时中断时继续查看缓存内容。
 
-AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者。“OpenClaw” 名称仅用于说明与用户自有 OpenClaw Gateway 的兼容关系。
+AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者。“OpenClaw” 名称仅用于说明与用户自有 OpenClaw-compatible Gateway 的兼容关系。
 
 这个仓库是公开社区与支持中心，不是私有 App 源码仓库。
+
+AG Mob 由 Chengling Hua 独立开发，不隶属于 OpenClaw 项目或其维护者，也未获得其背书或发布授权。文中使用 “OpenClaw” 仅用于说明与用户自有或被授权使用的 Gateway 实例兼容。
 
 ## 快速入口
 
@@ -24,7 +26,7 @@ AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布，不隶�
 
 ## 你可以用它做什么
 
-- 使用 Setup Code、扫码、Host、局域网、Tailscale 或安全 URL 连接 OpenClaw Gateway。
+- 使用 Setup Code、扫码、Host、局域网、Tailscale 或安全 URL 连接 OpenClaw-compatible Gateway。
 - 浏览会话列表，查看运行状态、最近消息、未读数、置顶会话、模型和思考模式。
 - 打开会话后查看分组的 assistant 执行、过程步骤、工具活动、最终回答、表格、附件和长文本阅读器。
 - 在 Tasks 中管理定时执行、提醒、循环任务和追加到会话的工作流。
@@ -40,7 +42,7 @@ AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布，不隶�
 
 ### 2. 准备 Gateway
 
-AG Mob 需要连接你拥有或有权限使用的 OpenClaw Gateway。首次连接通常从 Gateway 生成的 Setup Code 开始。
+AG Mob 需要连接你拥有或有权限使用的 OpenClaw-compatible Gateway 实例。首次连接通常从该 Gateway 生成的 Setup Code 开始。
 
 常见连接方式：
 

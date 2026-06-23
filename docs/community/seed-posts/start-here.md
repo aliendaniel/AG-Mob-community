@@ -2,7 +2,7 @@
 
 Welcome to the AG Mob community.
 
-AG Mob is an independent iPhone/iPad companion app for a user-owned OpenClaw Gateway. It is developed and published by Chengling Hua as an independent individual developer and is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. This GitHub repository is for public support, product updates, known issues, release notes, usage questions, and community feedback.
+AG Mob is an independent iPhone/iPad companion app for a user-owned OpenClaw-compatible Gateway. It is developed and published by Chengling Hua as an independent individual developer and is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. This GitHub repository is for public support, product updates, known issues, release notes, usage questions, and community feedback.
 
 This repository does not contain app source code.
 
@@ -33,7 +33,7 @@ Please do not post setup codes, device tokens, API keys, account data, order num
 
 欢迎来到 AG Mob 社区。
 
-AG Mob 是连接用户自有 OpenClaw Gateway 的独立 iPhone / iPad 伴侣 App，由 Chengling Hua 以独立个人开发者身份开发并发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者发布。这个 GitHub 仓库用于公开支持、产品更新、已知问题、版本说明、使用问题和社区反馈。
+AG Mob 是连接用户自有 OpenClaw-compatible Gateway 的独立 iPhone / iPad 伴侣 App，由 Chengling Hua 以独立个人开发者身份开发并发布，不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者发布。这个 GitHub 仓库用于公开支持、产品更新、已知问题、版本说明、使用问题和社区反馈。
 
 这里不包含 App 源码。
 

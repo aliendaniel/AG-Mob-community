@@ -4,7 +4,7 @@ Last updated: May 3, 2026
 
 This Privacy Policy explains how AG Mob handles information when you use the app, contact support, or participate in this public community.
 
-AG Mob is an independent companion app for connecting your iPhone or iPad to an OpenClaw Gateway that you own or are authorized to use. AG Mob is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. The app is developed and published by Chengling Hua as an independent individual developer. It is designed to keep you in control of your Gateway connection, chat sessions, task history, approvals, attachments, and local settings.
+AG Mob is an independent companion app for connecting your iPhone or iPad to an OpenClaw-compatible Gateway that you own or are authorized to use. AG Mob is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. The app is developed and published by Chengling Hua as an independent individual developer. It is designed to keep you in control of your Gateway connection, chat sessions, task history, approvals, attachments, and local settings.
 
 ## Summary
 
@@ -125,7 +125,7 @@ Information handled by AG Mob is used to:
 
 AG Mob may share or transmit information in these limited cases:
 
-- To the OpenClaw Gateway you configure, so the app can provide its core features.
+- To the OpenClaw-compatible Gateway you configure, so the app can provide its core features.
 - To Apple services when required by iOS/iPadOS features such as notifications, App Store distribution, TestFlight, or speech recognition.
 - To GitHub if you post public Issues or Discussions.
 - To email providers if you contact support by email.
@@ -190,7 +190,7 @@ For privacy, support, or security questions, contact:
 
 本隐私政策说明 AG Mob 在你使用 App、联系支持或参与公开社区时如何处理信息。
 
-AG Mob 是连接用户自有或被授权使用的 OpenClaw Gateway 的独立 iPhone / iPad 伴侣 App。AG Mob 不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者发布。AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布。App 的设计目标是让你控制 Gateway 连接、聊天会话、任务历史、审批、附件和本地设置。
+AG Mob 是连接用户自有或被授权使用的 OpenClaw-compatible Gateway 的独立 iPhone / iPad 伴侣 App。AG Mob 不隶属于 OpenClaw 项目，也不代表 OpenClaw 项目或其维护者发布。AG Mob 由 Chengling Hua 以独立个人开发者身份开发并发布。App 的设计目标是让你控制 Gateway 连接、聊天会话、任务历史、审批、附件和本地设置。
 
 ## 摘要
 
@@ -311,7 +311,7 @@ AG Mob 处理的信息用于：
 
 AG Mob 可能在以下有限情况下传输或共享信息：
 
-- 发送到你配置的 OpenClaw Gateway，以提供核心功能。
+- 发送到你配置的 OpenClaw-compatible Gateway，以提供核心功能。
 - 使用 iOS / iPadOS 功能时发送到 Apple 服务，例如通知、App Store 分发、TestFlight 或语音识别。
 - 如果你发布公开 Issues 或 Discussions，内容会由 GitHub 托管。
 - 如果你通过邮件联系支持，内容会经过邮件服务提供商。

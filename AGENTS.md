@@ -2,7 +2,7 @@
 
 ## Repository Purpose
 
-This repository is the public community and support hub for AG Mob, the independent iPhone/iPad companion app for a user-owned OpenClaw Gateway.
+This repository is the public community and support hub for AG Mob, the independent iPhone/iPad companion app for a user-owned OpenClaw-compatible Gateway.
 
 AG Mob is developed and published by Chengling Hua as an independent individual developer. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. Public docs must keep that relationship clear whenever OpenClaw compatibility is discussed.
 
