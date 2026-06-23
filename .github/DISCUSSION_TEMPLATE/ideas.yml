@@ -20,7 +20,7 @@ body:
     id: idea
     attributes:
       label: Your idea / 你的建议
-      placeholder: "I wish OpenClaw Mobile could ..."
+      placeholder: "I wish AG Mob could ..."
     validations:
       required: true
 

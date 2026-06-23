@@ -4,13 +4,9 @@
 
 AG Mob is an independent companion app for a user-owned OpenClaw-compatible Gateway. It helps you connect from iPhone or iPad, browse chats and scheduled tasks, follow live assistant runs, review readable results, approve actions when needed, and keep working when the connection is temporarily offline.
 
-AG Mob is independently developed and published. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. "OpenClaw" is used only to describe compatibility with user-owned OpenClaw-compatible Gateway instances.
-
-AG Mob is developed and published by Chengling Hua as an independent individual developer.
-
 This repository is the public community and support hub. It is not the private app source-code repository.
 
-AG Mob is developed independently by Chengling Hua. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. The word "OpenClaw" is used only to describe compatibility with Gateway instances that users own or have permission to access.
+AG Mob is developed and published by Chengling Hua as an independent individual developer. It is not affiliated with, endorsed by, or published by the OpenClaw project or its maintainers. The word "OpenClaw" is used only to describe compatibility with Gateway instances that users own or have permission to access.
 
 ## Quick Links
 

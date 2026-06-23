@@ -33,7 +33,7 @@ body:
     id: proposed-solution
     attributes:
       label: Proposed solution / 建议的解决方案
-      description: How should OpenClaw Mobile support this scenario?
+      description: How should AG Mob support this scenario?
       placeholder: "Add / improve / change ..."
     validations:
       required: true

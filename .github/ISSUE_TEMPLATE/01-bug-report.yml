@@ -1,12 +1,12 @@
 name: Bug Report / Bug 反馈
-description: Report a reproducible issue in OpenClaw Mobile
+description: Report a reproducible issue in AG Mob
 title: "[Bug]: "
 labels: ["bug", "triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping us improve OpenClaw Mobile.
+        Thanks for helping us improve AG Mob.
 
         Please do not post setup codes, device tokens, API keys, account data, private logs, or other sensitive information.
 
